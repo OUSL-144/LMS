@@ -5,7 +5,6 @@ error_reporting(0);
 if(isset($_POST['signup']))
 {
  
-//Code for student ID
 $count_my_page = ("studentid.txt");
 $hits = file($count_my_page);
 $hits[0] ++;
@@ -46,9 +45,7 @@ echo "<script>alert('Something went wrong. Please try again');</script>";
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <!--[if IE]>
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <![endif]-->
+   
     <title>Online Library Management System | Student Signup</title>
     <!-- BOOTSTRAP CORE STYLE  -->
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
