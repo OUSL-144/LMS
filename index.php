@@ -31,13 +31,11 @@
                             <img src="assets/img/3.jpg" alt="" /> 
                         </div>
                     </div>
-                    <!--INDICATORS-->
                      <ol class="carousel-indicators">
                         <li data-target="#carousel-example" data-slide-to="0" class="active"></li>
                         <li data-target="#carousel-example" data-slide-to="1"></li>
                         <li data-target="#carousel-example" data-slide-to="2"></li>
                     </ol>
-                    <!--PREVIUS-NEXT BUTTONS-->
                      <a class="left carousel-control" href="#carousel-example" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left"></span>
   </a>
@@ -83,7 +81,6 @@
 </div>
 </div>
 </div>  
-<!---LOGIN PABNEL END-->            
              
  
     </div>
