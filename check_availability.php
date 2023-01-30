@@ -5,8 +5,7 @@ if(!empty($_POST["emailid"])) {
 	if (filter_var($email, FILTER_VALIDATE_EMAIL)===false) {
 
 		echo "error : You did not enter a valid email.";
-	}
-	else {
+	}else {
 		$sql ="SELECT EmailId FROM tblstudents WHERE EmailId=:email";
 $query= $dbh -> prepare($sql);
 $query-> bindParam(':email', $email, PDO::PARAM_STR);
