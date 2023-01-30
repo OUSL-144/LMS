@@ -1,4 +1,4 @@
-?>
+2?>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -11,8 +11,8 @@
     <link href="assets/css/font-awesome.css" rel="stylesheet" />
     <link href="assets/css/style.css" rel="stylesheet" />
     <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
-
 </head>
+    
 <body>
 <?php include('includes/header.php');?>
 <div class="content-wrapper">
