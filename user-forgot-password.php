@@ -100,7 +100,6 @@ return true;
 <input class="form-control" type="password" name="confirmpassword" required autocomplete="off"  />
 </div>
 
-
  <button type="submit" name="change" class="btn btn-info">Chnage Password</button> | <a href="index.php">Login</a>
 </form>
  </div>
