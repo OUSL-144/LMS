@@ -124,10 +124,10 @@ Change Password
  </div>
 </div>
 </div>
-</div>  
+</div> 
+    
 <!---LOGIN PABNEL END-->            
              
- 
     </div>
     </div>
      <!-- CONTENT-WRAPPER SECTION END-->
