@@ -43,6 +43,7 @@ echo "<script>alert('Invalid Details');</script>";
 
 </head>
 <body>
+    
     <!------MENU SECTION START-->
 <?php include('includes/header.php');?>
 <!-- MENU SECTION END-->
