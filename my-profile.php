@@ -22,7 +22,6 @@ $query->execute();
 
 echo '<script>alert("Your profile has been updated")</script>';
 }
-
 ?>
 
 <!DOCTYPE html>
